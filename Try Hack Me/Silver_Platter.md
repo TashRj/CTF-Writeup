@@ -1,15 +1,14 @@
 
-Silverplatter writeup CTF
-### 1. Go to the target website at 10.10.103.42
+### Silverplatter writeup CTF
+#### 1. Go to the target website at 10.10.103.42
 ![Alt text](https://github.com/TashRj/CTF-Writeup/blob/main/Try%20Hack%20Me/screenshots/Screenshot%202025-02-18%20091727.png?raw=true)
 
-### 2. We can find an interesting information here
- 
+#### 2. We can find an interesting information here
+ ![Alt text](https://github.com/TashRj/CTF-Writeup/blob/main/Try%20Hack%20Me/screenshots/Screenshot%202025-02-18%20091807.png?raw=true)
 The username is given for a system called Silverpeas
- 
 Silverpeas is a web based tool used for collaboration among employees
 
-3. Next, run a nmap scan to view open ports
+#### 3. Next, run a nmap scan to view open ports
  
 Port 22, 80 and 8080 are open
 
