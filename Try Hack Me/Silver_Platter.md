@@ -6,15 +6,17 @@
 #### 2. We can find an interesting information here
  ![Alt text](https://github.com/TashRj/CTF-Writeup/blob/main/Try%20Hack%20Me/screenshots/Screenshot%202025-02-18%20091807.png?raw=true)
 - The username is given for a system called Silverpeas
+
+  ![image](https://github.com/user-attachments/assets/a069704e-0f26-4374-8d91-5478bc44c598)
 - Silverpeas is a web based tool used for collaboration among employees
 
 #### 3. Next, run a nmap scan to view open ports
- 
-Port 22, 80 and 8080 are open
+ ![image](https://github.com/TashRj/CTF-Writeup/blob/main/Try%20Hack%20Me/screenshots/Screenshot%202025-02-18%20092055.png?raw=true)
+- Port 22, 80 and 8080 are open
 
 4. Check for the silverpeas website inside the main website for port 80 and 8080.
- 
-We have succesfully accessed the silverpeas login website by using 10.10.103.42:8080/silverpeas 
+![image](https://github.com/TashRj/CTF-Writeup/blob/main/Try%20Hack%20Me/screenshots/Screenshot%202025-02-18%20092313.png?raw=true)
+- We have succesfully accessed the silverpeas login website by using 10.10.103.42:8080/silverpeas 
 
 5. The silverpeas version is the 2022 version. We can check for any vulnarabilites during that period
  
