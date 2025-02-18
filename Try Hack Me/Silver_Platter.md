@@ -1,9 +1,9 @@
 
 Silverplatter writeup CTF
-1. Go to the target website at 10.10.103.42
+### 1. Go to the target website at 10.10.103.42
 ![Alt text](https://github.com/TashRj/CTF-Writeup/blob/main/Try%20Hack%20Me/screenshots/Screenshot%202025-02-18%20091727.png?raw=true)
 
-2. We can find an interesting information here
+### 2. We can find an interesting information here
  
 The username is given for a system called Silverpeas
  
