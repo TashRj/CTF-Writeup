@@ -1,1 +1,1 @@
-This would be some CTF's writeups that i have done.
+Here are some of the CTF's that i did, and also more stuff to come T_T
