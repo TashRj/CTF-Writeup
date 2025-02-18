@@ -1,1 +1,3 @@
-This would be the CTF writeup for Silver Platter in TryHackMe
+This would be some CTF's writeups that i have done.
+
+- TryHackMe CTF [THM]
