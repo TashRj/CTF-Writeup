@@ -5,8 +5,8 @@
 
 #### 2. We can find an interesting information here
  ![Alt text](https://github.com/TashRj/CTF-Writeup/blob/main/Try%20Hack%20Me/screenshots/Screenshot%202025-02-18%20091807.png?raw=true)
-The username is given for a system called Silverpeas
-Silverpeas is a web based tool used for collaboration among employees
+- The username is given for a system called Silverpeas
+- Silverpeas is a web based tool used for collaboration among employees
 
 #### 3. Next, run a nmap scan to view open ports
  
