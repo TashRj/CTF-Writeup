@@ -1,7 +1,7 @@
 
 Silverplatter writeup CTF
 1. Go to the target website at 10.10.103.42
-(https://github.com/TashRj/CTF-Writeup/blob/main/Try%20Hack%20Me/screenshots/Screenshot%202025-02-18%20091727.png?raw=true)
+![Alt text](https://github.com/TashRj/CTF-Writeup/blob/main/Try%20Hack%20Me/screenshots/Screenshot%202025-02-18%20091727.png?raw=true)
 
 2. We can find an interesting information here
  
